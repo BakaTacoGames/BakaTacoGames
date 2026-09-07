@@ -5,7 +5,7 @@ Gameplay Programmer from Cologne, Germany, with a Diploma in Game Programming.
 My main focus is gameplay programming, prototyping and building modular game systems.
 I primarily work with Unity and C#, with additional experience in Unreal Engine and C++.
 
-## 🛠 Tech
+## Tech
 
 - C#
 - C++
@@ -17,7 +17,7 @@ I primarily work with Unity and C#, with additional experience in Unreal Engine 
 - Visual Studio
 - MySQL
 
-## 🎮 What I work on
+## What I work on
 
 - Gameplay Systems
 - Player & Enemy Mechanics
@@ -29,15 +29,17 @@ I primarily work with Unity and C#, with additional experience in Unreal Engine 
 - Prototyping
 - Mobile Development
 
-## ⭐ Featured Projects
+## Featured Projects
+
+As a side note, I recommend to read my retrospective on my projects on LinkedIn, where I talked about my projects and what I might have done differently.
 
 ### Smart Security
-2D / 3D / 4D puzzle game developed as a solo project.
+2D / 3D / 4D puzzle game developed as a solo project within a month.
 
 **Tech:** Unity, C#  
-**Role:** Gameplay Programmer / Solo Developer
+**Role:** Entire Project on my own. 
 
-[Play on itch.io](https://baka-taco-games.itch.io/smart-security)
+[Play Smart on itch.io Security](https://baka-taco-games.itch.io/smart-security)
 
 ---
 
@@ -45,31 +47,33 @@ I primarily work with Unity and C#, with additional experience in Unreal Engine 
 Multiplayer game developed as a team project for Global Game Jam 2026.
 
 **Tech:** Rider, JavaScript  
-**Role:** Programmer & Art
+**Role:** Programmer & Art & Game Design
 
-[To the GGJ Page](https://globalgamejam.org/games/2026/theatrical-malice-5)
+[To the Theatrical GGJ Page](https://globalgamejam.org/games/2026/theatrical-malice-5)
 
 ---
 
 ### TONiTRASH
-Mobile game developed with Unity.
+Mobile game developed with Unity within 3 weeks.
 
 **Tech:** Unity, C#  
-**Focus:** Mobile gameplay and systems
+**Role:** Solo Programmer & Game Design
 
-[Watch the trailer I made](https://www.youtube.com/channel/UCKc_JcX7leRSCnlDyeyAQRQ)
+[Watch the TONiTrailer](https://www.youtube.com/channel/UCKc_JcX7leRSCnlDyeyAQRQ)
 
 ---
 
 ### Under the Bed
-3D horror prototype developed with Unreal Engine.
+3D horror prototype developed with Unreal Engine within 3 weeks.
 
 **Tech:** Unreal Engine, C++
+**Role** Solo Programmer & Game Design
 
-[Try out the Unreal Enigne Prototype]()
+[To Under the Unreal prototype](https://baka-taco-games.itch.io/under-the-bed)
 
-## 🔗 Links
+## Links
 
-🎮 Portfolio: https://baka-taco-games.itch.io  
-💻 GitHub: https://github.com/BakaTacoGames  
-💼 LinkedIn: Lucca Poensgen
+Portfolio on itch: https://baka-taco-games.itch.io  
+GitHub inception: https://github.com/BakaTacoGames  
+LinkedIn to connect & project retrospective: Lucca Poensgen
+YouTube where I release Trailers to my current projects: https://www.youtube.com/channel/UCKc_JcX7leRSCnlDyeyAQRQ
