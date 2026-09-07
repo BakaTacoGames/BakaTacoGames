@@ -73,7 +73,7 @@ Mobile game developed with Unity within 3 weeks.
 
 ## Links
 
-Portfolio on itch: https://baka-taco-games.itch.io  
-GitHub inception: https://github.com/BakaTacoGames  
-LinkedIn to connect & project retrospective: Lucca Poensgen
-YouTube where I release Trailers to my current projects: https://www.youtube.com/channel/UCKc_JcX7leRSCnlDyeyAQRQ
+Portfolio on itch: [baka-taco-games on itch](https://baka-taco-games.itch.io)  
+GitHub inception: [BakaTacoGames on GitHub](https://github.com/BakaTacoGames)  
+LinkedIn to connect & project retrospective: [Lucca Poensgen on LinkedIn](https://www.linkedin.com/in/lucca-poensgen-2a93201bb/)<br> 
+YouTube where I release Trailers to my current projects: [Baka Taco Games on YouTube](https://www.youtube.com/channel/UCKc_JcX7leRSCnlDyeyAQRQ)
