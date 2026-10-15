@@ -3,7 +3,7 @@
 Gameplay Programmer from Cologne, Germany, with a Diploma in Game Programming.
 
 My main focus is gameplay programming, prototyping and building modular game systems.
-I primarily work with Unity and C#, with additional experience in Unreal Engine and C++.
+I primarily work with Unity and C#, with additional experience in Unreal Engine and C++. Currently looking into Godot as well.
 
 ## Tech
 
