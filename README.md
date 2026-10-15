@@ -48,10 +48,18 @@ As a side note, I recommend to read my retrospective on my projects on LinkedIn,
 
 **Tech:** Unity, C#  
 **Role:** Entire Project on my own.
-**Code:** 
-SFXManager Object Pooling <img width="759" height="812" alt="image" src="https://github.com/user-attachments/assets/d3451563-279e-4e66-8f35-164179cb6de2" />
-Note4D inheritance + write txt in folder <img width="1318" height="609" alt="image" src="https://github.com/user-attachments/assets/55d2b3ae-7430-4c4e-906c-76e7abe62275" />
-InteractableBase reusable <img width="626" height="825" alt="image" src="https://github.com/user-attachments/assets/36d81223-18ab-4b98-b5e6-47217a01d494" />
+
+**Code:** SFXManager Object Pooling 
+
+<img width="759" height="812" alt="image" src="https://github.com/user-attachments/assets/d3451563-279e-4e66-8f35-164179cb6de2" />
+
+Note4D inheritance + write txt in folder
+
+<img width="1318" height="609" alt="image" src="https://github.com/user-attachments/assets/55d2b3ae-7430-4c4e-906c-76e7abe62275" />
+
+InteractableBase reusable
+
+<img width="626" height="825" alt="image" src="https://github.com/user-attachments/assets/36d81223-18ab-4b98-b5e6-47217a01d494" />
 
 
 [Play Smart on itch.io Security](https://baka-taco-games.itch.io/smart-security)
@@ -61,8 +69,8 @@ InteractableBase reusable <img width="626" height="825" alt="image" src="https:/
 ### Theatrical Malice
 Multiplayer game developed as a team project for Global Game Jam 2026.
 
-**Tech:** Rider, JavaScript  
-**Role:** Programmer & Art & Game Design
+**Tech:** Rider, HTML, CSS, JavaScript  
+**Role:** Game Design & Art & Programmer (Small portion like RNG)
 
 [To the Theatrical GGJ Page](https://globalgamejam.org/games/2026/theatrical-malice-5)
 
@@ -73,10 +81,18 @@ Mobile game developed with Unity within 3 weeks.
 
 **Tech:** Unity, C#  
 **Role:** Solo Programmer & Game Design
-**Code:**
-Building Save/Load <img width="1112" height="881" alt="image" src="https://github.com/user-attachments/assets/344c568a-b321-49b2-b681-4083592ce770" />
-Save GameMangaer <img width="739" height="854" alt="image" src="https://github.com/user-attachments/assets/bd5e053c-4844-4c3a-a6d0-5cc1ed22ddbc" />
-Mobile Phone tilt <img width="948" height="795" alt="image" src="https://github.com/user-attachments/assets/749ed144-00c1-4caf-8c56-1448d1822124" />
+
+**Code:** Building Save/Load 
+
+<img width="1112" height="881" alt="image" src="https://github.com/user-attachments/assets/344c568a-b321-49b2-b681-4083592ce770" />
+
+Save GameMangaer 
+
+<img width="739" height="854" alt="image" src="https://github.com/user-attachments/assets/bd5e053c-4844-4c3a-a6d0-5cc1ed22ddbc" />
+
+Mobile Phone tilt 
+
+<img width="948" height="795" alt="image" src="https://github.com/user-attachments/assets/749ed144-00c1-4caf-8c56-1448d1822124" />
 
 [Watch the TONiTrailer](https://www.youtube.com/channel/UCKc_JcX7leRSCnlDyeyAQRQ)
 
@@ -85,8 +101,20 @@ Mobile Phone tilt <img width="948" height="795" alt="image" src="https://github.
 ### Under the Bed
 3D horror prototype developed with Unreal Engine within 3 weeks.
 
-**Tech:** Unreal Engine, C++
-**Role** Solo Programmer & Game Design
+**Tech:** Unreal Engine, Blueprint
+<br>**Role:** Solo Programmer & Game Design
+
+**Code:** Blueprint Chase AI 
+
+<img width="1266" height="523" alt="image" src="https://github.com/user-attachments/assets/b5d52ae3-52ed-4324-bb7b-731c81aeeb89" />
+
+Blueprint Player 
+
+<img width="1145" height="668" alt="image" src="https://github.com/user-attachments/assets/fc79c7e5-2e31-4eb8-a386-cd8cb1f9d803" />
+
+Widget Blueprint Options 
+
+<img width="728" height="800" alt="image" src="https://github.com/user-attachments/assets/0564db51-bebb-492d-b717-3f7d3a3550e5" />
 
 [To Under the Unreal prototype](https://baka-taco-games.itch.io/under-the-bed)
 
