@@ -139,9 +139,37 @@ Multiplayer Blueprint
 **Tech:** C#, Windowsforms, Steam API
 <br>**Role:** Solo Programmer
 
-**Code:** WeaponProjectile C++
+**Code:** Compare Friends
 
+<img width="1061" height="863" alt="image" src="https://github.com/user-attachments/assets/1b62520b-8789-4974-8780-4afb4152002d" />
 
+[Try the Yummy Steamed Hams Launcher now](https://github.com/BakaTacoGames/SteamedHamsLauncher/releases/tag/1.0)
+
+---
+### Creating my own Website + Pacmouse
+
+**Tech:** HTML, CSS, Javascript
+<br>**Role:** Solo Programmer
+
+**Code:** .css
+
+<img width="391" height="502" alt="image" src="https://github.com/user-attachments/assets/850c5010-1f0c-4e0a-922a-b785e484bead" />
+
+.html
+
+<img width="997" height="407" alt="image" src="https://github.com/user-attachments/assets/daba3879-fafd-4574-969a-097e595c04cd" />
+
+.js
+
+<img width="493" height="384" alt="image" src="https://github.com/user-attachments/assets/3c4683c4-b807-452f-84d4-d2d6239ed092" />
+
+Pacmouse Player
+
+<img width="538" height="707" alt="image" src="https://github.com/user-attachments/assets/07112918-b7ed-48cc-b370-d3acfd27795d" />
+
+Drawing Map
+
+<img width="628" height="843" alt="image" src="https://github.com/user-attachments/assets/fae727ad-0837-432e-b885-24bd7d5fef3b" />
 
 ## Links
 
