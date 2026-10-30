@@ -49,15 +49,15 @@ As a side note, I recommend to read my retrospective on my projects on LinkedIn,
 **Tech:** Unity, C#  
 **Role:** Entire Project on my own.
 
-**Code:** SFXManager Object Pooling 
+**Code:** # SFXManager Object Pooling 
 
 <img width="759" height="812" alt="image" src="https://github.com/user-attachments/assets/d3451563-279e-4e66-8f35-164179cb6de2" />
 
-Note4D inheritance + write txt in folder
+# Note4D inheritance + write txt in folder
 
 <img width="1318" height="609" alt="image" src="https://github.com/user-attachments/assets/55d2b3ae-7430-4c4e-906c-76e7abe62275" />
 
-InteractableBase reusable
+# InteractableBase reusable
 
 <img width="626" height="825" alt="image" src="https://github.com/user-attachments/assets/36d81223-18ab-4b98-b5e6-47217a01d494" />
 
@@ -82,15 +82,15 @@ Mobile game developed with Unity within 3 weeks.
 **Tech:** Unity, C#  
 **Role:** Solo Programmer & Game Design
 
-**Code:** Building Save/Load 
+**Code:** # Building Save/Load 
 
 <img width="1112" height="881" alt="image" src="https://github.com/user-attachments/assets/344c568a-b321-49b2-b681-4083592ce770" />
 
-Save GameMangaer 
+# Save GameMangaer 
 
 <img width="739" height="854" alt="image" src="https://github.com/user-attachments/assets/bd5e053c-4844-4c3a-a6d0-5cc1ed22ddbc" />
 
-Mobile Phone tilt 
+# Mobile Phone tilt 
 
 <img width="948" height="795" alt="image" src="https://github.com/user-attachments/assets/749ed144-00c1-4caf-8c56-1448d1822124" />
 
@@ -104,15 +104,15 @@ Mobile Phone tilt
 **Tech:** Unreal Engine, Blueprint
 <br>**Role:** Solo Programmer & Game Design
 
-**Code:** Blueprint Chase AI 
+**Code:** # Blueprint Chase AI 
 
 <img width="1266" height="523" alt="image" src="https://github.com/user-attachments/assets/b5d52ae3-52ed-4324-bb7b-731c81aeeb89" />
 
-Blueprint Player 
+# Blueprint Player 
 
 <img width="1145" height="668" alt="image" src="https://github.com/user-attachments/assets/fc79c7e5-2e31-4eb8-a386-cd8cb1f9d803" />
 
-Widget Blueprint Options 
+# Widget Blueprint Options 
 
 <img width="728" height="800" alt="image" src="https://github.com/user-attachments/assets/0564db51-bebb-492d-b717-3f7d3a3550e5" />
 
@@ -124,12 +124,12 @@ Widget Blueprint Options
 **Tech:** Unreal Engine, Blueprint, C++, Steam API for Multiplayer
 <br>**Role:** Solo Programmer
 
-**Code:** WeaponProjectile C++
+**Code:** # WeaponProjectile C++
 
 <img width="513" height="746" alt="image" src="https://github.com/user-attachments/assets/f1d1113c-b69f-496b-beab-c3d98ede5c71" />
 <img width="1127" height="801" alt="image" src="https://github.com/user-attachments/assets/7e9546fc-01d6-410d-ba9f-7dde6798b4d5" />
 
-Multiplayer Blueprint
+# Multiplayer Blueprint
 
 <img width="1246" height="615" alt="image" src="https://github.com/user-attachments/assets/e21d58eb-e1a8-4058-a6bd-1d8a43cecf4b" />
 
@@ -139,7 +139,7 @@ Multiplayer Blueprint
 **Tech:** C#, Windowsforms, Steam API
 <br>**Role:** Solo Programmer
 
-**Code:** Compare Friends
+**Code:** # Compare Friends
 
 <img width="1061" height="863" alt="image" src="https://github.com/user-attachments/assets/1b62520b-8789-4974-8780-4afb4152002d" />
 
@@ -151,23 +151,23 @@ Multiplayer Blueprint
 **Tech:** HTML, CSS, Javascript
 <br>**Role:** Solo Programmer
 
-**Code:** .css
+**Code:** # .css
 
 <img width="391" height="502" alt="image" src="https://github.com/user-attachments/assets/850c5010-1f0c-4e0a-922a-b785e484bead" />
 
-.html
+# .html
 
 <img width="997" height="407" alt="image" src="https://github.com/user-attachments/assets/daba3879-fafd-4574-969a-097e595c04cd" />
 
-.js
+# .js
 
 <img width="493" height="384" alt="image" src="https://github.com/user-attachments/assets/3c4683c4-b807-452f-84d4-d2d6239ed092" />
 
-Pacmouse Player
+# Pacmouse Player
 
 <img width="538" height="707" alt="image" src="https://github.com/user-attachments/assets/07112918-b7ed-48cc-b370-d3acfd27795d" />
 
-Drawing Map
+# Drawing Map
 
 <img width="628" height="843" alt="image" src="https://github.com/user-attachments/assets/fae727ad-0837-432e-b885-24bd7d5fef3b" />
 
