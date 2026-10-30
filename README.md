@@ -31,9 +31,9 @@ I primarily work with Unity and C#, with additional experience in Unreal Engine 
 
 ## GitHub Activity
 
-Since most of my Projects are private, the github activity doesn't represent fully my activity, which is why I post screenshots of my activity (Last updated on 15.10.2026) here:
+Since most of my Projects are private, the github activity doesn't represent fully my activity, which is why I post screenshots of my activity (Last updated on 30.10.2026) here:
 
-<img width="928" height="225" alt="Screenshot 2026-10-15 140211" src="https://github.com/user-attachments/assets/465e9103-b7a7-4a6e-8b2d-41cf90cffd5e" />
+<img width="916" height="234" alt="image" src="https://github.com/user-attachments/assets/f8b7687c-d2fe-4710-8d00-a073a3c50f23" />
 <img width="910" height="242" alt="Screenshot 2026-10-15 140142" src="https://github.com/user-attachments/assets/b7479e11-cdf2-402c-b24d-f71c2f3f22dc" />
 <img width="925" height="216" alt="Screenshot 2026-10-15 140100" src="https://github.com/user-attachments/assets/3bf41448-0963-4adc-bbfb-e6e85cf93c0c" />
 <img width="927" height="232" alt="Screenshot 2026-10-15 140036" src="https://github.com/user-attachments/assets/126d7241-ea3f-4406-bea2-5b93d59c2e6a" />
