@@ -41,7 +41,7 @@ Since most of my Projects are private, the github activity doesn't represent ful
 
 As a side note, I recommend to read my retrospective on my projects on LinkedIn, where I talked about my projects and what I might have done differently.
 
-## Featured Projects
+## Featured Projects (BTS)
 
 ### Smart Security
 2D / 3D / 4D puzzle game developed as a solo project within a month.
