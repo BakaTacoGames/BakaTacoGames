@@ -118,6 +118,31 @@ Widget Blueprint Options
 
 [To Under the Unreal prototype](https://baka-taco-games.itch.io/under-the-bed)
 
+---
+### Unreal C++ Multiplayer Shooter Project (private)
+
+**Tech:** Unreal Engine, Blueprint, C++, Steam API for Multiplayer
+<br>**Role:** Solo Programmer
+
+**Code:** WeaponProjectile C++
+
+<img width="513" height="746" alt="image" src="https://github.com/user-attachments/assets/f1d1113c-b69f-496b-beab-c3d98ede5c71" />
+<img width="1127" height="801" alt="image" src="https://github.com/user-attachments/assets/7e9546fc-01d6-410d-ba9f-7dde6798b4d5" />
+
+Multiplayer Blueprint
+
+<img width="1246" height="615" alt="image" src="https://github.com/user-attachments/assets/e21d58eb-e1a8-4058-a6bd-1d8a43cecf4b" />
+
+---
+### Steam Launcher
+
+**Tech:** C#, Windowsforms, Steam API
+<br>**Role:** Solo Programmer
+
+**Code:** WeaponProjectile C++
+
+
+
 ## Links
 
 Portfolio on itch: [baka-taco-games on itch](https://baka-taco-games.itch.io)  
