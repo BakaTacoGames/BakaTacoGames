@@ -242,7 +242,7 @@ Multiplayer game developed as a team project during Global Game Jam 2026.
 
 # Links
 
-🎮 **Portfolio:** [Baka Taco Games on itch.io](https://baka-taco-games.itch.io)  
-🐙 **GitHub inception:** [BakaTacoGames on GitHub](https://github.com/BakaTacoGames)  
-💼 **LinkedIn & Project Retrospectives:** [Lucca Poensgen on LinkedIn](https://www.linkedin.com/in/lucca-poensgen-2a93201bb/)  
-📺 **Trailers & Project Showcases:** [Baka Taco Games on YouTube](https://www.youtube.com/channel/UCKc_JcX7leRSCnlDyeyAQRQ)
+**Portfolio:** [Baka Taco Games on itch.io](https://baka-taco-games.itch.io)  
+**GitHub inception:** [BakaTacoGames on GitHub](https://github.com/BakaTacoGames)  
+**LinkedIn & Project Retrospectives:** [Lucca Poensgen on LinkedIn](https://www.linkedin.com/in/lucca-poensgen-2a93201bb/)  
+**Trailers & Project Showcases:** [Baka Taco Games on YouTube](https://www.youtube.com/channel/UCKc_JcX7leRSCnlDyeyAQRQ)
